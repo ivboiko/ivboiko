@@ -1,4 +1,0 @@
-# Rates
-
-- Development
-- Code review

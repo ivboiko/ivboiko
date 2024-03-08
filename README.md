@@ -1,5 +1,4 @@
 <code>👷 Speciality: Software engineer / Frontend</code><br>
-<code>💡 [Skills](SKILLS.md)</code>
 <code>🧑‍💻 Languages: JavaScript, TypeScript</code>
 
 <code>💬 telegram: [@ivboiko](https://telegram.me/ivboiko)</code>
